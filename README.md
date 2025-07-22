@@ -1,17 +1,16 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Saswat
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+ML+Engineer;Python+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+ML+Engineer;Data+Engineer+%26+Pipeline+Architect;AI+Agent+Developer;Python+%26+ETL+Specialist;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Machine Learning Projects** and **Data Science Solutions**
-- 🌱 I'm currently learning **Deep Learning**, **MLOps**, and **Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source ML Projects**
-- 🤔 I'm looking for help with **Advanced NLP** and **Computer Vision**
-- 💬 Ask me about **Python**, **Machine Learning**, **Data Analysis**
-- 📫 How to reach me: **[your.email@example.com]**
+- 🔭 I'm currently working on **AI Agent Systems**, **Data Engineering Pipelines**, and **ML Solutions**
+- 🌱 I'm currently learning **System Design**, **Distributed Computing**, **Advanced ETL Orchestration**
+- 👯 I'm looking to collaborate on **AI Agent Projects** and **Data Engineering Solutions**
+- 🤔 I'm looking for help with **Multi-Agent Systems** and **Real-time Data Streaming**
+- 💬 Ask me about **Python**, **Snowflake**, **Agentic Ai**, **Data Pipelines**, **ML Engineering**
 - 😄 Pronouns: **He/Him** (or your preferred pronouns)
 - ⚡ Fun fact: **I love turning data into insights and coffee into code!**
 
@@ -30,6 +29,20 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Data Engineering & ETL
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### AI Agent Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-00D4AA?style=for-the-badge&logo=microsoft&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Web Development & Deployment
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -77,38 +90,12 @@ A lightweight Python-based web application that predicts heart disease likelihoo
 - **Features**: Pre-trained models, health tips, CLI/Web interface
 - **Impact**: Helps users assess cardiovascular health risk
 
-### 📈 [Project Name 2](https://github.com/saswattulo/project-2)
-Brief description of your second most important project.
-- **Tech Stack**: Technologies used
-- **Features**: Key features
-- **Impact**: What problem it solves
-
-### 🤖 [Project Name 3](https://github.com/saswattulo/project-3)
-Brief description of your third project.
-- **Tech Stack**: Technologies used
-- **Features**: Key features
-- **Impact**: Business value or learning outcome
 
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saswattulo&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
 </div>
-
-## 🌟 Professional Experience
-
-### 🎯 Current Focus
-- Building end-to-end ML pipelines
-- Exploring MLOps and model deployment strategies
-- Contributing to open-source ML projects
-- Learning advanced deep learning architectures
-
-### 📚 Education & Certifications
-- **Degree**: [Your Degree] from [University Name]
-- **Certifications**: 
-  - AWS Certified Machine Learning Specialty
-  - Google Cloud Professional ML Engineer
-  - [Add your actual certifications]
 
 ## 🤝 Let's Connect!
 
@@ -122,29 +109,7 @@ Brief description of your third project.
 
 </div>
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Heart Disease Prediction Model](https://your-blog-url.com/post1)
-- [Understanding PCA in Machine Learning](https://your-blog-url.com/post2)
-- [Best Practices for ML Model Deployment](https://your-blog-url.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
-## 💡 Fun Facts
-
-- 🎯 I've completed **[X]** machine learning projects
-- 📊 Analyzed datasets with over **[X million]** records
-- ☕ Powered by coffee and curiosity
-- 🌱 Always learning something new in AI/ML
-- 🎮 When not coding, I enjoy [your hobbies]
-
-## 🎯 2025 Goals
-
-- [ ] Contribute to **5 open-source ML projects**
-- [ ] Complete **Advanced Deep Learning Specialization**
-- [ ] Build and deploy **3 production ML models**
-- [ ] Write **10 technical blog posts**
-- [ ] Speak at **2 tech conferences/meetups**
 
 ---
 
