@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Saswat
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+ML+Engineer;Data+Engineer+%26+Pipeline+Architect;AI+Agent+Developer;Python+%26+ETL+Specialist;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+ML+Engineer;Data+Engineer+%26+Ai+Engineer;AI+Agent+Developer;Python+%26+ETL+Specialist;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **AI Agent Systems**, **Data Engineering Pipelines**, and **ML Solutions**
+- 🔭 I'm currently working on **AI Agent Systems**, **AgentStack**, and **Reasoning Models**
 - 🌱 I'm currently learning **System Design**, **Distributed Computing**, **Advanced ETL Orchestration**
 - 👯 I'm looking to collaborate on **AI Agent Projects** and **Data Engineering Solutions**
 - 🤔 I'm looking for help with **Multi-Agent Systems** and **Real-time Data Streaming**
